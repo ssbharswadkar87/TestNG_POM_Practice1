@@ -1,0 +1,40 @@
+2020-06-02 12:39:50,210  INFO [main] LoginPageTest:27 - **********************Initialization method will launch WebDriver**************************************
+2020-06-02 12:39:59,346  INFO [main] LoginPageTest:30 - **********************Application launched successfully**************************************
+2020-06-02 12:39:59,388  INFO [main] LoginPageTest:36 - **********************Test 1*****************************
+2020-06-02 12:39:59,389  INFO [main] LoginPageTest:37 - ***************************Validation of Page Title****************************
+2020-06-02 12:39:59,425  INFO [main] LoginPageTest:41 - **********************Page Title validation is successful*****************************
+2020-06-02 12:40:00,292  INFO [main] LoginPageTest:74 - ***********************Chrome browser closed************************************
+2020-06-02 12:40:00,302  INFO [main] LoginPageTest:27 - **********************Initialization method will launch WebDriver**************************************
+2020-06-02 12:40:08,421  INFO [main] LoginPageTest:30 - **********************Application launched successfully**************************************
+2020-06-02 12:40:08,425  INFO [main] LoginPageTest:47 - **********************Test 2*****************************
+2020-06-02 12:40:08,427  INFO [main] LoginPageTest:48 - ***************************Validation of Page Text****************************
+2020-06-02 12:40:08,520  INFO [main] LoginPageTest:52 - **********************Page Text validation is successful*****************************
+2020-06-02 12:40:09,307  INFO [main] LoginPageTest:74 - ***********************Chrome browser closed************************************
+2020-06-02 12:40:10,086  INFO [main] LoginPageTest:27 - **********************Initialization method will launch WebDriver**************************************
+2020-06-02 12:40:17,114  INFO [main] LoginPageTest:30 - **********************Application launched successfully**************************************
+2020-06-02 12:40:17,116  INFO [main] LoginPageTest:64 - **********************Test 3*****************************
+2020-06-02 12:40:17,116  INFO [main] LoginPageTest:65 - ***************************Validation of Page Login functionality****************************
+2020-06-02 12:40:19,405  INFO [main] LoginPageTest:67 - **********************Page Login functionality validation is successful*****************************
+2020-06-02 12:40:20,210  INFO [main] LoginPageTest:74 - ***********************Chrome browser closed************************************
+2020-06-02 12:40:20,215  INFO [main] RegistrationPageTest:33 - WebDriver initialization process starts
+2020-06-02 12:40:28,479  INFO [main] RegistrationPageTest:39 - WebDriver successfully launched.
+2020-06-02 12:40:28,480  INFO [main] RegistrationPageTest:44 - First test case execution is in process.
+2020-06-02 12:40:29,414  INFO [main] RegistrationPageTest:48 - Test Case 1 successfully executed
+2020-06-02 12:40:30,193  INFO [main] RegistrationPageTest:33 - WebDriver initialization process starts
+2020-06-02 12:40:37,490  INFO [main] RegistrationPageTest:39 - WebDriver successfully launched.
+2020-06-02 12:40:37,492  INFO [main] RegistrationPageTest:53 - Test Case 2 execution is in process
+2020-06-02 12:40:38,146  INFO [main] RegistrationPageTest:57 - Test Case 2 successfully executed
+2020-06-02 12:40:38,975  INFO [main] RegistrationPageTest:33 - WebDriver initialization process starts
+2020-06-02 12:40:46,639  INFO [main] RegistrationPageTest:39 - WebDriver successfully launched.
+2020-06-02 12:40:46,644  INFO [main] RegistrationPageTest:72 - Create Customer Registration test execution is in process.
+2020-06-02 12:40:54,515  INFO [main] RegistrationPageTest:78 - Create Customer Registration test execution is successfully completed.
+2020-06-02 12:40:55,773 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-06-02 12:40:55,774 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-06-02 12:40:55,776 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-02 12:40:55,777 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-02 12:40:55,777 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-06-02 12:40:56,056 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-06-02 12:40:56,057 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-06-02 12:40:56,058 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-06-02 12:40:56,058 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-06-02 12:40:56,059 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

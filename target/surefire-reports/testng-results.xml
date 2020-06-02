@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="77293" started-at="2020-06-02T13:26:39 BST" finished-at="2020-06-02T13:27:56 BST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="77293" started-at="2020-06-02T13:26:39 BST" finished-at="2020-06-02T13:27:56 BST">
+      <class name="testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testCases.LoginPageTest@76f2b07d]" name="setUP" is-config="true" duration-ms="9259" started-at="2020-06-02T13:26:39 BST" finished-at="2020-06-02T13:26:48 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateTitleTest()[pri:1, instance:testCases.LoginPageTest@76f2b07d]" name="validateTitleTest" duration-ms="19" started-at="2020-06-02T13:26:48 BST" finished-at="2020-06-02T13:26:48 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginPageTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="863" started-at="2020-06-02T13:26:48 BST" finished-at="2020-06-02T13:26:49 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testCases.LoginPageTest@76f2b07d]" name="setUP" is-config="true" duration-ms="8410" started-at="2020-06-02T13:26:49 BST" finished-at="2020-06-02T13:26:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validatePageTextTest()[pri:2, instance:testCases.LoginPageTest@76f2b07d]" name="validatePageTextTest" duration-ms="209" started-at="2020-06-02T13:26:58 BST" finished-at="2020-06-02T13:26:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginPageTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="699" started-at="2020-06-02T13:26:58 BST" finished-at="2020-06-02T13:26:59 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testCases.LoginPageTest@76f2b07d]" name="setUP" is-config="true" duration-ms="8596" started-at="2020-06-02T13:27:00 BST" finished-at="2020-06-02T13:27:08 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateLoginPageTest(java.lang.String, java.lang.String)[pri:3, instance:testCases.LoginPageTest@76f2b07d]" name="validateLoginPageTest" duration-ms="3347" started-at="2020-06-02T13:27:08 BST" data-provider="loginPageApplication" finished-at="2020-06-02T13:27:12 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ssbharswadkar87@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginPageTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="2665" started-at="2020-06-02T13:27:12 BST" finished-at="2020-06-02T13:27:14 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginPageTest -->
+      <class name="testCases.RegistrationPageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testCases.RegistrationPageTest@704a52ec]" name="setUP" is-config="true" duration-ms="10100" started-at="2020-06-02T13:27:14 BST" finished-at="2020-06-02T13:27:25 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateRegistrationPageTest()[pri:1, instance:testCases.RegistrationPageTest@704a52ec]" name="validateRegistrationPageTest" duration-ms="873" started-at="2020-06-02T13:27:25 BST" finished-at="2020-06-02T13:27:25 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegistrationPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.RegistrationPageTest@704a52ec]" name="tearDown" is-config="true" duration-ms="1246" started-at="2020-06-02T13:27:25 BST" finished-at="2020-06-02T13:27:27 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testCases.RegistrationPageTest@704a52ec]" name="setUP" is-config="true" duration-ms="9003" started-at="2020-06-02T13:27:27 BST" finished-at="2020-06-02T13:27:36 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validatePageTitleTest()[pri:2, instance:testCases.RegistrationPageTest@704a52ec]" name="validatePageTitleTest" duration-ms="1863" started-at="2020-06-02T13:27:36 BST" finished-at="2020-06-02T13:27:37 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.RegistrationPageTest@704a52ec]" name="tearDown" is-config="true" duration-ms="1172" started-at="2020-06-02T13:27:37 BST" finished-at="2020-06-02T13:27:39 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testCases.RegistrationPageTest@704a52ec]" name="setUP" is-config="true" duration-ms="7366" started-at="2020-06-02T13:27:39 BST" finished-at="2020-06-02T13:27:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="createRegistrationWithExcelData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:testCases.RegistrationPageTest@704a52ec]" name="createRegistrationWithExcelData" duration-ms="9596" started-at="2020-06-02T13:27:46 BST" data-provider="createRegistration" finished-at="2020-06-02T13:27:56 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1980]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Engineer]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[London Road]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[TH19 6TH]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[ssbharswadkar87@gmail.com]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Abc@123]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Abc@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRegistrationWithExcelData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.RegistrationPageTest@704a52ec]" name="tearDown" is-config="true" duration-ms="724" started-at="2020-06-02T13:27:56 BST" finished-at="2020-06-02T13:27:56 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.RegistrationPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
